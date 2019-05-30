@@ -18,7 +18,8 @@ For prediction task, we employed 11 algorithms included:
 8) DTC (Decision Tree Classification) 
 9) PAR (Passive Aggressive Regression)
 10) Thiel-Sen Regression 
-11)ANFIS (Adaptive neuro fuzzy inference system)
+11) ANFIS (Adaptive neuro fuzzy inference system)
+
 -------------------------------------------------------------------------
 
 For predictor algorithms, we implemented them in 2 software, Matlab and Phyton.
