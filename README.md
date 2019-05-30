@@ -19,10 +19,10 @@ For prediction task, we employed 11 algorithms included:
 9) PAR (Passive Aggressive Regression)
 10) Thiel-Sen Regression 
 11)ANFIS (Adaptive neuro fuzzy inference system)
-
 For predictor algorithms, we implemented them in 2 software, Matlab and Phyton.
 
  -------------------------------------------------------------------------
+ 
 For implementation by Matlab:
 This codes are included 6 predictor algorithms (LoLIMOT (Local Linear Model Trees), RBF (Radial basis Function), Random Forest, MLP_BP (Multilayer Perceptron_ Back propagation), RNN (Recurrent Neural Network) and ANFIS (Adaptive neuro fuzzy inference system)). Automated Machine Learning
 Hyperparameter Tuning is applied to some algorithms so that some parameters such as number of neurons for some machines (such as RBF, LoLIMOT and ANFIS and for Random Forest tunes depth) will tune automatically. This code needs a feature table which shows various combinations between features.
