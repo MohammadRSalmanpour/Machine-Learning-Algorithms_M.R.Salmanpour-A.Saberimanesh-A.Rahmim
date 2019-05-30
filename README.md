@@ -75,6 +75,15 @@ Results of each datasheet accompanied with various combinations will save sapara
 Performances (MEan Absolote Errors)for each datasheet (also for each combination) save in Excel finally.
 
  -------------------------------------------------------------------------
+ Datasets:
+ There are 2 kinds ogf dataset:
+ 1) Motor datasets included 4 randomized arrangements.
+ 2) Non_Motor datasets included:
+ I) Main datasets included 10 randomized arrangements of the dataset (included 184 patients).
+ II) Independent test datasets that patients selections are based on results of FSSAs for selecting more patients.
+ 
+  -------------------------------------------------------------------------
+
 AUTHOR(S):
 - Mohammad Reza Salmanpour Paeen Afrakati, Abdollah Saberimanesh
 -------------------------------------------------------------------------
