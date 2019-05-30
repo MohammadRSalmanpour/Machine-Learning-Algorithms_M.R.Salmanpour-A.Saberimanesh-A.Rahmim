@@ -79,7 +79,7 @@ AUTHOR(S):
 - Mohammad Reza Salmanpour Paeen Afrakati, Abdollah Saberimanesh
 -------------------------------------------------------------------------
 STATEMENT:
-This files are part of prediction tasks and optimal feature selection for Parkinson disease progression. Package by Mohammad Reza Salmanpour, Abdollah Saberimanesh and Arman Rahmim.
+This files are part of prediction tasks and optimal feature selection for Parkinson disease progression (Prediction task). Package by Mohammad Reza Salmanpour, Abdollah Saberimanesh and Arman Rahmim.
 --> Copyright (C) 2018-2019 Mohammad Reza Salmanpour ,Amirkabir University of Technology (Tehran Polytechnic) 
 All rights reserved for Mohammad Reza Salmanpour Paeen Afrakati, Abdollah Saberimanesh and Arman Rahmim.
 This package is distributed in the hope that it will be useful,
