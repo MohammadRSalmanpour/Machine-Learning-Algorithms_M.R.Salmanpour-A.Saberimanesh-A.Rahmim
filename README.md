@@ -27,8 +27,8 @@ For predictor algorithms, we implemented them in 2 software, Matlab and Phyton.
  -------------------------------------------------------------------------
  
 For implementation by Matlab:
-This codes are included 6 predictor algorithms (LoLIMOT (Local Linear Model Trees), RBF (Radial basis Function), Random Forest, MLP_BP (Multilayer Perceptron_ Back propagation), RNN (Recurrent Neural Network) and ANFIS (Adaptive neuro fuzzy inference system)). Automated Machine Learning
-Hyperparameter Tuning is applied to some algorithms so that some parameters such as number of neurons for some machines (such as RBF, LoLIMOT and ANFIS and for Random Forest tunes depth) will tune automatically. This code needs a feature table which shows various combinations between features.
+This codes are included 6 predictor algorithms (LOLIMOT (Local Linear Model Trees), RBF (Radial basis Function), Random Forest, MLP_BP (Multilayer Perceptron_ Back propagation), RNN (Recurrent Neural Network) and ANFIS (Adaptive neuro fuzzy inference system)). Automated Machine Learning
+Hyperparameter Tuning is applied to some algorithms so that some parameters such as number of neurons for some machines (such as RBF, LOLIMOT and ANFIS and for Random Forest tunes depth) will tune automatically. This code needs a feature table which shows various combinations between features.
 So this code is able to work with each combination introduced in Feature table automatically. Also, this code is able to work with various datasheets automatically. Results of each combination for each datasheet will save finally.
 They all perform from MAINALL. 
 
@@ -41,10 +41,10 @@ Target should add last column of each datasheet. It can be useful for datasheets
 OUTPUTS:
 For each function (predictor algorithm), fitting curve of true outcome and predicted outcome draws and saves.
 The workspace for each datasheet and for each combination will saved.
-Fitting curves of each run (True outcome VS predicted Outcome) will save.
+Fitting curves of each run (True outcome VS predicted outcome) will save.
 Results of each datasheet accompanied with various combinations will save separately.
-For Other algorithms such as LASSOLAR, BRR (Bayesian Ridge Regression), DTC (Decision Tree Classification), PAR (Passive Aggressive Regression), and Thiel-Sen Regression implemented in Python. 
-This code is included 5 predictor algorithms (LASSOLAR, BRR (Bayesian Ridge Regression), DTC (Decision Tree Classification) , PAR (Passive Aggressive Regression), and Thiel-Sen Regression). 
+For other algorithms such as LASSOLAR, BRR (Bayesian Ridge Regression), DTC (Decision Tree Classification), PAR (Passive Aggressive Regression), and Thiel-Sen Regression implemented in Python. 
+This code is included 6 predictor algorithms (LASSOLAR, BRR (Bayesian Ridge Regression), DTC (Decision Tree Classification) , PAR (Passive Aggressive Regression), and Thiel-Sen Regression). 
 This code needs a feature table which shows various combinations between features. So this code is able to work with each combination in table automatically. Also, this code is able to work with various datasheets automatically. Results of each combination for each datasheet will save finally.
 
  -------------------------------------------------------------------------
@@ -72,7 +72,7 @@ OUTPUTS:
 For each function (predictor algorithm), 
 True outcome as predicted Outcome will save as mat.file.
 Results of each datasheet accompanied with various combinations will save saparately.
-Performances (MEan Absolote Errors)for each datasheet (also for each combination) save in Excel finally.
+Performances (Mean Absolote Errors)for each datasheet (also for each combination) save in Excel finally.
 
  -------------------------------------------------------------------------
  Datasets:
