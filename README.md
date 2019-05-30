@@ -1,4 +1,4 @@
-# Machine-Learning-Algorithms
+# Machine-Learning-Algorithms_M.R.Salmanpour-A.Saberimanesh-A.Rahmim
 Machine Learning Algorithms for prediction tasks and feature subset selctor tasks for Parkinson Disease progression (Motor and Non_Motor symptoms)
 
 This project consists of two parts, one is Feature Subset Selection tasks, another is prediction tasks.
