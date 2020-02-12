@@ -1,5 +1,16 @@
 # Machine-Learning-Algorithms_M.R.Salmanpour-A.Saberimanesh-A.Rahmim
 Machine Learning Algorithms for prediction tasks and feature subset selctor tasks for Parkinson Disease progression (Motor and Non_Motor symptoms)
+You can cite it as:
+first paper: 
+ M. R. Salmanpour, M. Shamsaei, A. Saberi, Saeed Setayeshi, Ivan S.Klyuzhin, Vesna Sossi, Arman Rahmim
+Optimized machine learning methods for prediction of cognitive outcome in Parkinson's disease
+Computers in Biology and Medicine, Accepted for Publication, 2019.
+
+Second paper: M. R. Salmanpour, M. Shamsaei, A. Saberi, I. S. Klyuzhin, J. Tang, V. Sossi, and A. Rahmim
+Machine learning methods for optimal prediction of motor outcome in Parkinson’s disease
+Physica Medica, Accepted for Publication, 2020.
+https://www.sciencedirect.com/science/article/pii/S1120179719305435 
+
 
 This project consists of two parts, one is Feature Subset Selection tasks, another is prediction tasks.
 For Feature Subset Selection tasks(FSSA), 6 FSSAs were employed and compared to select the most effective features: 1) GA (Genetic Algorithm)2) ACO (Ants Colony Optimization) ,3) PSO (Particle Swarm Optimization), 
@@ -92,9 +103,9 @@ AUTHOR(S):
 -------------------------------------------------------------------------
 STATEMENT:
 This files are part of prediction tasks and optimal feature selection for Parkinson disease progression (Prediction task). Package by Mohammad Reza Salmanpour, Abdollah Saberimanesh and Arman Rahmim.
---> Copyright (C) 2018-2019 Mohammad Reza Salmanpour ,Amirkabir University of Technology (Tehran Polytechnic) 
-All rights reserved for Mohammad Reza Salmanpour Paeen Afrakati, Abdollah Saberimanesh and Arman Rahmim.
+--> Copyright (C) 2018-2019 Mohammad Reza Salmanpour ,Amirkabir University of Technology (Tehran Polytechnic)&university of British coulumbia, BC Cancer Agency 
+All rights reserved for Mohammadreza Salmanpourpaeenafrakati, Abdollah Saberimanesh and Arman Rahmim.
 This package is distributed in the hope that it will be useful,
 
 Any feedback welcome!!!
-m.salmanpoor66@gmail.com, mohamad91@aut.ac.ir
+m.salmanpoor66@gmail.com, msalman@bccrc.ca, msalman@phas.ubc.ca, mohamad91@aut.ac.ir
