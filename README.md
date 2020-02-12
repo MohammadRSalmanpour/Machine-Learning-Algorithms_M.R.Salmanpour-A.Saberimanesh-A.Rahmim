@@ -5,6 +5,7 @@ first paper:
  M. R. Salmanpour, M. Shamsaei, A. Saberi, Saeed Setayeshi, Ivan S.Klyuzhin, Vesna Sossi, Arman Rahmim
 Optimized machine learning methods for prediction of cognitive outcome in Parkinson's disease
 Computers in Biology and Medicine, Accepted for Publication, 2019.
+https://www.sciencedirect.com/science/article/pii/S0010482519302161
 
 Second paper: M. R. Salmanpour, M. Shamsaei, A. Saberi, I. S. Klyuzhin, J. Tang, V. Sossi, and A. Rahmim
 Machine learning methods for optimal prediction of motor outcome in Parkinson’s disease
